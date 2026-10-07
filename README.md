@@ -201,6 +201,7 @@ Abaixo está o detalhamento dos códigos-fonte e de qual componente eles pertenc
 
 
 
+
 ## 🎮 Como Jogar
 
 1. Ligue primeiro o hardware da Caixa para permitir que o Access Point seja criado.
