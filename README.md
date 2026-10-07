@@ -1,7 +1,3 @@
-Aqui está uma proposta completa e estruturada para o `README.md` do repositório, baseada inteiramente na arquitetura e nos códigos que desenvolvemos. Ele foi formatado em Markdown, pronto para você copiar e colar no GitHub.
-
----
-
 # 🎸 Guitar Hero LED (Raspberry Pi Pico 2W + WS2812B)
 
 Este projeto recria a experiência clássica do Guitar Hero e Clone Hero em uma dimensão física (1D), utilizando fitas de LED endereçáveis (WS2812B) como a pista de notas. O sistema opera de forma totalmente sem fio, garantindo baixíssima latência através de uma rede Wi-Fi local e comunicação UDP.
